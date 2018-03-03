@@ -21,5 +21,8 @@
   "homepage": "https://github.com/madhudskumar/closed-loop#readme",
   "dependencies": {
     "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "8.9.4"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "name": "clusters",
+  "version": "1.0.0",
+  "description": "Closed loop clusters with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhudskumar/closed-loop.git"
+  },
+  "keywords": [
+    "clusters"
+  ],
+  "author": "Madhu Kumar D S <madhudskumar@live.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhudskumar/closed-loop/issues"
+  },
+  "homepage": "https://github.com/madhudskumar/closed-loop#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
